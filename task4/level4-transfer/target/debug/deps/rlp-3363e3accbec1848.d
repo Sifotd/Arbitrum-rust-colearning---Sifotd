@@ -1,0 +1,12 @@
+/Users/sifotd/Desktop/共学/Arbitrum-rust-colearning---Sifotd/task4/level4-transfer/target/debug/deps/rlp-3363e3accbec1848.d: /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/lib.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/error.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/impls.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/rlpin.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/stream.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/traits.rs
+
+/Users/sifotd/Desktop/共学/Arbitrum-rust-colearning---Sifotd/task4/level4-transfer/target/debug/deps/librlp-3363e3accbec1848.rlib: /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/lib.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/error.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/impls.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/rlpin.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/stream.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/traits.rs
+
+/Users/sifotd/Desktop/共学/Arbitrum-rust-colearning---Sifotd/task4/level4-transfer/target/debug/deps/librlp-3363e3accbec1848.rmeta: /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/lib.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/error.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/impls.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/rlpin.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/stream.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/traits.rs
+
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/lib.rs:
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/error.rs:
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/impls.rs:
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/rlpin.rs:
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/stream.rs:
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rlp-0.5.2/src/traits.rs:
