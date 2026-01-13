@@ -1,0 +1,10 @@
+/Users/sifotd/Desktop/共学/Arbitrum-rust-colearning---Sifotd/task5/level5-contract-read/target/debug/deps/open_fastrlp-4354aec8071b2a38.d: /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/lib.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/decode.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/encode.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/types.rs
+
+/Users/sifotd/Desktop/共学/Arbitrum-rust-colearning---Sifotd/task5/level5-contract-read/target/debug/deps/libopen_fastrlp-4354aec8071b2a38.rlib: /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/lib.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/decode.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/encode.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/types.rs
+
+/Users/sifotd/Desktop/共学/Arbitrum-rust-colearning---Sifotd/task5/level5-contract-read/target/debug/deps/libopen_fastrlp-4354aec8071b2a38.rmeta: /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/lib.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/decode.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/encode.rs /Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/types.rs
+
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/lib.rs:
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/decode.rs:
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/encode.rs:
+/Users/sifotd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-fastrlp-0.1.4/src/types.rs:

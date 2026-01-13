@@ -1,0 +1,1 @@
+/Users/sifotd/Desktop/共学/Arbitrum-rust-colearning---Sifotd/task5/level5-contract-read/target/debug/level5-contract-read: /Users/sifotd/Desktop/共学/Arbitrum-rust-colearning---Sifotd/task5/level5-contract-read/src/main.rs
